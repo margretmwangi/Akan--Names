@@ -1,4 +1,8 @@
 body{
+<<<<<<< HEAD
     background-image: url(https://bit.ly/2V58FFN);
+=======
+    background-image: url("../images/akan.jpg");
+>>>>>>> 03649b2cdcfb5bff3065dea9320b6677876f6fa7
     background-size:cover;
 }
