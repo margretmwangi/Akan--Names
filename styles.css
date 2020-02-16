@@ -1,10 +1,2 @@
-body{
-    background-image: url("../images/akan.jpg");
-    background-size:cover;
-}
-body{
-    text-align: center;
-    background-color: cadetblue;
-    padding-top: 4%;
-    padding bottom:4%;
-}
+body{background-image: URL(image/akan.jpg);         background-repeat: no-repeat;
+    background-size:cover
