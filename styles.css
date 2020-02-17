@@ -1,4 +1,5 @@
 body{
     background-image: URL(./images/akan.jpg);     
     background-size:cover;
+    background-repeat: no-repeat;
 }
